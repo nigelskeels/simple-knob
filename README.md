@@ -14,9 +14,9 @@ Use the component
 <knob-component id="knob1" value="100"></knob-component>
 ```
 
-Adding some extra parameters
+Add some extra parameters
 ```
-<knob-component id="knob1" value="100"></knob-component>
+<knob-component id="knob1" style="height:80px;width:80px;" value="0" min="0" max="500" offsetangle="180"></knob-component>
 ```
 
 Adding a listener for value changes

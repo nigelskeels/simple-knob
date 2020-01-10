@@ -1,7 +1,7 @@
 customElements.define('knob-component', class extends HTMLElement {
 
   constructor() {
-    super(); // always call super() first in the ctor.
+    super(); 
 
 
     // Create shadow DOM for the component.
@@ -23,9 +23,9 @@ customElements.define('knob-component', class extends HTMLElement {
     shadowRoot.innerHTML = `
     <style>
         :host {
-          display: block;
           width: 52px;
           height:52px;
+          display: block;
         }
         #knob{
           position:relative;

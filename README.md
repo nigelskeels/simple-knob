@@ -16,7 +16,8 @@ Use the component
 
 Add some extra parameters
 ```
-<knob-component id="knob1" style="height:80px;width:80px;" value="0" min="0" max="500" offsetangle="180"></knob-component>
+<knob-component id="knob1" style="height:80px!important;width:80px!important;" value="0" min="0" max="500" offsetangle="180" title="Bigger Knob"></knob-component>
+
 ```
 
 Adding a listener for value changes

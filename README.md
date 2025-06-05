@@ -3,6 +3,9 @@ Simple Web Component and CSS based knob
 
 Web components and css only, no dependencies!!
 
+Demo Here..
+https://nigelskeels.github.io/simple-knob/
+
 
 Import the component
 ```

@@ -3,6 +3,8 @@ Simple Vanilla Javascript Web Component and CSS based knob
 
 Web components and css only, no dependencies!!
 
+![simple knob Image](simpleknob.png)
+
 Demo Here..
 https://nigelskeels.github.io/simple-knob/
 

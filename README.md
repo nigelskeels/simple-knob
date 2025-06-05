@@ -1,5 +1,5 @@
 # simple-knob
-Simple Web Component and CSS based knob
+Simple Vanilla Javascript Web Component and CSS based knob
 
 Web components and css only, no dependencies!!
 

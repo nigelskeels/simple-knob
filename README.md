@@ -3,7 +3,7 @@ Simple Vanilla Javascript Web Component and CSS based knob
 
 Web components and css only, no dependencies!!
 
-![simple knob Image](simpleknob.png)
+[<img src="simpleknob.png">](https://nigelskeels.github.io/simple-knob/)
 
 Demo Here..
 https://nigelskeels.github.io/simple-knob/
